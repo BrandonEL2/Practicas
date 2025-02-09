@@ -11,19 +11,12 @@ namespace primer_parcial
          static void Main(string[] args)
         {
             Console.WriteLine("Seleccione la operacion a realizar");
-            int M= int.Parse(Console.ReadLine());
             Console.WriteLine("1. Area cuadrado");
-            int A= int.Parse(Console.ReadLine());
             Console.WriteLine("2. Promedio");
-            int PR=int.Parse(Console.ReadLine());
             Console.WriteLine("3. Temperatura");
-            double T= double.Parse(Console.ReadLine());
             Console.WriteLine("4. Densidad");
-            int D = int.Parse(Console.ReadLine());
             Console.WriteLine("5. Masa");
-            int MA= int.Parse(Console.ReadLine());
             Console.WriteLine("6. Volumen");
-            int V = int.Parse(Console.ReadLine());
             Console.WriteLine("7. Puntaje");
             int P = int.Parse(Console.ReadLine());
             Console.WriteLine("Elige opcio");
