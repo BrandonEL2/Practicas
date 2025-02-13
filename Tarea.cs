@@ -23,11 +23,11 @@ namespace primer_parcial
             int Op= int.Parse(Console.ReadLine());
             Console.WriteLine("Ingresa el primer numero");
             int N1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingresa el primer numero");
+            Console.WriteLine("Ingresa el segundo numero");
             int N2 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingresa el primer numero");
+            Console.WriteLine("Ingresa el tercer numero");
             int N3 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingresa el primer numero");
+            Console.WriteLine("Ingresa el cuarto numero");
             int N4 = int.Parse(Console.ReadLine());
             switch (Op)
             {
